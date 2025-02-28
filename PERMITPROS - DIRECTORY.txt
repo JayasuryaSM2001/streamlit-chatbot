@@ -1,0 +1,37 @@
+PERMITPROS - LICENSE DIRECTORY
+
+Purpose
+1. to capture information on each agency at each level for a given type of business / license
+2. Enable PP PROSERVE team & clients workers to add and update this directory as they work on clients licenses
+3. Provide points (aka reward system) for each update so we can reward users for entering information
+
+1 screen with input fields
+Country
+Industry - Food & Beverage, Gas Stations, Healthcare, Spa's/Nails Salons, Transportation, etc. (Link to NAICS and or SIC code)
+Level - National, State, County, City, Jurisdiction (not sure what the hierarchy is)
+Agency - National - TABC, State Texas TABC, 
+Licenses do I need
+- Owner level		Burger King Franchise Owner
+- Operator Level	Burger King Franchisee
+- Location Level 	123 Main Street
+- Building Level	- eg fire codes, elevator permits
+- Manager Level 	- safety certification, etc.
+- Worker Level		- serving staff or food storage permits
+
+1 screen for Querying
+I am opening a bar in city of Tomball, TX and we will be serving bar snacks and have a beer garden as a wedding venue what licenses and permits do I need? 
+
+Output
+Would produce a checklist that covers all the levels 
+Would list for each license the agency, contact information, address, website, phone & preferably the time period that the application takes, renewal takes
+
+We would want this to be availab e to all PP customers (if they pay for this module)
+
+
+SOLN
+- backend database structure
+- front end data entry page
+- Report page
+- Points engine
+
+Once done, PP will ask PC to use offshore resource to load all the data we already have

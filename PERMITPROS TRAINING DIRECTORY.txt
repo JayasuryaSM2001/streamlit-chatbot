@@ -1,0 +1,16 @@
+PERMITPROS TRAINING DIRECTORY
+
+In partnership with F&B training who provide legally required training for staff that do specific functions and have to have a license and training to be permitted to do their job
+
+eg: I am a bartender in city of Tomball, Texas, and I need a "TIPS" license and that requires annual re-certification through taking a training module
+
+so what we want is an integration or link to the F&B training modules for that license
+
+AND for each person in the PP Licensing Module and summary of all the training they need based on their licenses, and location and job, showing which the have taken, when it expires, when they need to take the next one
+
+Howe the commercial model works we don't know
+1. client pays F&B, PP gets commission
+2. client pays PP and F&B gets payout
+3. something else
+
+We would want this to be availab e to all PP customers (if they pay for this module)
